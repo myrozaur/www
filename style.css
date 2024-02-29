@@ -1,0 +1,11 @@
+body{
+    background-color: green;
+}
+p{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+.contener{
+    background-color: aqua;
+}
